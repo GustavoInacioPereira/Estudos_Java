@@ -8,7 +8,7 @@
   <li>
    🚩 Sistema Estoque: Gestão de produtos com entrada e saída de mercadorias. Foco em métodos com parâmetros e retorno de strings formatadas.
   </li>
-  li>
+  <li>
    🚩 Sistema de Conversão de Moedas: Exercício focado em membros estáticos e métodos utilitários, aplicando cálculo de IOF sobre cotações.
   </li>
 </ul>
