@@ -11,6 +11,9 @@
   <li>
    🚩 Sistema de Conversão de Moedas: Exercício focado em membros estáticos e métodos utilitários, aplicando cálculo de IOF sobre cotações.
   </li>
+   <li>
+   🚩 Sistema Bancário (Conta Corrente): Exercício focado em Encapsulamento e Sobrecarga, protegendo o saldo de alterações diretas e permitindo depósitos iniciais opcionais. Implementa regras de negócio como taxa de saque fixa e persistência da identidade da conta.
+  </li>
 </ul>
 
 </p>
