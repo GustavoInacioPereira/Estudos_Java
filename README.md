@@ -14,6 +14,9 @@
    <li>
    🚩 Sistema Bancário (Conta Corrente): Exercício focado em Encapsulamento e Sobrecarga, protegendo o saldo de alterações diretas e permitindo depósitos iniciais opcionais. Implementa regras de negócio como taxa de saque fixa e persistência da identidade da conta.
   </li>
+   <li>
+   🚩 Pasta de Exercicios Vetor: Pasta com Exercicios de fixação sobre Vetores em Java, proposta de cada exercicio consta no README de cada pasta
+  </li>
 </ul>
 
 </p>
