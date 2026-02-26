@@ -4,22 +4,63 @@
 
 <h2>📂 O que tem por aqui? </h2>
 <p> Cada pasta representa um desafio de lógica ou uma aplicação de conceitos de POO:
-<ul>
-  <li>
-   🚩 Sistema Estoque: Gestão de produtos com entrada e saída de mercadorias. Foco em métodos com parâmetros e retorno de strings formatadas.
-  </li>
-  <li>
-   🚩 Sistema de Conversão de Moedas: Exercício focado em membros estáticos e métodos utilitários, aplicando cálculo de IOF sobre cotações.
-  </li>
-   <li>
-   🚩 Sistema Bancário (Conta Corrente): Exercício focado em Encapsulamento e Sobrecarga, protegendo o saldo de alterações diretas e permitindo depósitos iniciais opcionais. Implementa regras de negócio como taxa de saque fixa e persistência da identidade da conta.
-  </li>
-   <li>
-   🚩 Pasta de Exercicios Vetor: Pasta com Exercicios de fixação sobre Vetores em Java, proposta de cada exercicio consta no README de cada pasta
-  </li>
-</ul>
+<details> 
+ <summary>  <b> 🚩 Sistema Estoque: </b> </summary>
+  <ul>
+    <li>
+       Gestão de produtos com entrada e saída de mercadorias. Foco em métodos com parâmetros e retorno de strings formatadas.
+    </li>
+  </ul>
+</details>
 
-</p>
+<details> 
+ <summary>  <b> 🚩 Sistema Estoque: </b> </summary>
+  <ul>
+    <li>
+       Gestão de produtos com entrada e saída de mercadorias. Foco em métodos com parâmetros e retorno de strings formatadas.
+    </li>
+  </ul>
+</details>
+
+<details> 
+ <summary>  <b> 🚩 Sistema de Conversão de Moedas: </b> </summary>
+  <ul>
+    <li>
+       Exercício focado em membros estáticos e métodos utilitários, aplicando cálculo de IOF sobre cotações.
+    </li>
+  </ul>
+</details>
+
+<details> 
+ <summary>  <b>  🚩 Sistema Bancário (Conta Corrente): </b> </summary>
+  <ul>
+    <li>
+       Exercício focado em Encapsulamento e Sobrecarga, protegendo o saldo de alterações diretas e permitindo depósitos iniciais opcionais. Implementa regras de negócio como taxa de saque fixa e persistência da identidade da conta.
+    </li>
+  </ul>
+</details>
+
+<details> 
+ <summary>  <b> 🚩 Pasta de Exercicios Vetor: </b> </summary>
+  <ul>
+    <li>
+       Pasta com Exercicios de fixação sobre Vetores em Java, proposta de cada exercicio consta no README de cada pasta
+    </li>
+  </ul>
+</details>
+
+<details open> 
+ <summary>  <b> 🚩 Navegador de Matrizes 2D: </b> </summary>
+  <ul>
+    <li>
+       Desafio de lógica avançada para navegação em grades $M \times N$. Foco em varredura de arrays bidimensionais e algoritmos de verificação de adjacência (vizinhos) com tratamento de exceções de borda.
+    </li>
+  </ul>
+</details>
+   
+  
+
+
 
 
 
