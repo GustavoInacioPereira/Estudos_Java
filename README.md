@@ -51,11 +51,19 @@
   </ul>
 </details>
 
-<details open> 
+<details> 
  <summary>  <b> 🚩 Exercício de Fixação: Herança e Polimorfismo </b> </summary>
   <ul>
     <li>
        Ler dados de N produtos (Comum, Usado e Importado) e mostrar a etiqueta de preço de cada um, aplicando taxas de alfândega ou datas de fabricação conforme o tipo, exigindo o uso prático de herança e polimorfismo para a solução.
+    </li>
+  </ul>
+</details>
+<details open> 
+ <summary>  <b> 🚩 Exercício de Fixação: Classes e Métodos Abstratos </b> </summary>
+  <ul>
+    <li>
+       Um sistema simples de linha de comando criado para treinar o conceito de Abstração na Programação Orientada a Objetos. O objetivo é instanciar diferentes figuras geométricas (Círculo e Retângulo) e calcular suas áreas com base em um contrato rigoroso estabelecido pela classe mãe.
     </li>
   </ul>
 </details>
