@@ -59,11 +59,19 @@
     </li>
   </ul>
 </details>
-<details open> 
+<details> 
  <summary>  <b> 🚩 Exercício de Fixação: Classes e Métodos Abstratos </b> </summary>
   <ul>
     <li>
        Um sistema simples de linha de comando criado para treinar o conceito de Abstração na Programação Orientada a Objetos. O objetivo é instanciar diferentes figuras geométricas (Círculo e Retângulo) e calcular suas áreas com base em um contrato rigoroso estabelecido pela classe mãe.
+    </li>
+  </ul>
+</details>
+<details open> 
+ <summary>  <b> 🚩 Exercício de Fixação: Manipulação de Arquivos (File I/O) </b> </summary>
+  <ul>
+    <li>
+       Criar um fluxo completo para capturar dados de clientes via terminal, persistir essas informações em um arquivo <code>.txt</code> local sem sobrescrever o histórico (modo append) e ler os registros de volta na tela, aplicando regras lógicas para garantir que não haja cadastros duplicados no banco de texto.
     </li>
   </ul>
 </details>
