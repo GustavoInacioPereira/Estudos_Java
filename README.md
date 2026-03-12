@@ -67,7 +67,7 @@
     </li>
   </ul>
 </details>
-<details open> 
+<details> 
  <summary>  <b> 🚩 Exercício de Fixação: Manipulação de Arquivos (File I/O) </b> </summary>
   <ul>
     <li>
@@ -75,6 +75,16 @@
     </li>
   </ul>
 </details>
+
+<details open> 
+ <summary>  <b> 🚩 Exercício de Fixação: Stream API </b> </summary>
+  <ul>
+    <li>
+       Este projeto é a resolução de um exercício prático focado no paradigma funcional utilizando a <b>Stream API</b> e a manipulação de arquivos (I/O) em Java. O programa lê um arquivo de texto contendo dados de funcionários (nome, email, salário) e executa operações declarativas de filtragem, ordenação e redução matemática de forma altamente otimizada.
+    </li>
+  </ul>
+</details>
+  
   
   
 

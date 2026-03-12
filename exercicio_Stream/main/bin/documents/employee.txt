@@ -1,0 +1,5 @@
+gustavo;gustavo@gmail.com;2250.00
+Maria;gustavo@gmail.com;2290.00
+Marcia;marcia@gmail.com;50.00
+Marta;marcia@gmail.com;5340.00
+Augusto;augusto@gmail.com;4900.00
